@@ -1,2 +1,2 @@
 # cobol-check-automation
-Example of Enterprise Cobol with Cobol Check
+Example of Enterprise Cobol with Cobol Check, using GitHub Secrets and GitHub Workflow
